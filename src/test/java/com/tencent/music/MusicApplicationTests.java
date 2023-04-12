@@ -1,7 +1,7 @@
-package com.example.yin;
+package com.tencent.music;
 
-import com.example.yin.domain.Consumer;
-import com.example.yin.service.impl.ConsumerServiceImpl;
+import com.tencent.music.domain.Consumer;
+import com.tencent.music.service.impl.ConsumerServiceImpl;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +12,7 @@ import java.util.Date;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class YinMusicApplicationTests {
+public class MusicApplicationTests {
 
     @Autowired
     // private SongServiceImpl songService;
