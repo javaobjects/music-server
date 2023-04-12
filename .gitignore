@@ -11,9 +11,11 @@
 .sts4-cache
 target/
 .DS_Store
+avatorImages/
 img/
 song/
 logs/
+temp.txt
 
 ### IntelliJ IDEA ###
 .idea
